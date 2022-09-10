@@ -1,5 +1,5 @@
 {
-	"dependencies": {
-		"zenn-cli": "^0.1.116"
+	"devDependencies": {
+		"zenn-cli": "^0.1.122"
 	}
 }
