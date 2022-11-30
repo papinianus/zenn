@@ -3,7 +3,7 @@ title: 'モンティホール問題について'
 emoji: '🍊'
 type: 'idea' # tech: 技術記事 / idea: アイデア
 topics: ['MontyHallproblem']
-published: true
+published: false
 ---
 
 ## これは何
