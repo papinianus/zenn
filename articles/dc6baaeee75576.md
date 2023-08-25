@@ -3,7 +3,7 @@ title: 'PostgreSQL 16 beta 3 で新しく Pleasanter を起動してみた'
 emoji: '🌊'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: [postgresql, Pleasanter]
-published: false
+published: true
 ---
 
 ## まとめ
