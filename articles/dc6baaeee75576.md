@@ -44,6 +44,10 @@ published: true
 
 ![dashboard](/images/dc6baaeee75576.gif)
 
+## ネクストアクション
+
+人柱覚悟でローカルで使ってる環境をアップグレードしてみようと思う。
+
 [^1]:
     https://www.postgresql.org/docs/16/release-16.html#RELEASE-16-CHANGES
     https://www.sraoss.co.jp/tech-blog/pgsql/pg16report/
